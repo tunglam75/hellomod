@@ -6,5 +6,5 @@ import (
 
 //SayHello function
 func SayHello() {
-	fmt.Println("Hello World v3")
+	fmt.Println("Hello World v4")
 }
